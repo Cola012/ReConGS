@@ -1,6 +1,6 @@
 # ReConGS
 
-**Cross-View Feature Coupling and Reliability-Aware Gaussian Refinement for Text-to-3D Generation**
+**Decoder-Aware Feature Coupling and Reliability-Aware Gaussian Refinement for Text-to-3D Generation**
 
 Jiaheng Xu<sup>1</sup>, Shuoyuan Zhou<sup>1</sup>, Yan Tian<sup>1,2,*</sup>, Xun Wang<sup>1</sup>
 
